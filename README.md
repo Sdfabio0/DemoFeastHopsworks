@@ -1,4 +1,5 @@
 # DemoFeastHopsworks
+
 A feature store is a data management system that manages and serves features to machine learning models
 
 Data Scientists spend an inordinate amount of time transforming data before they can start building models.
@@ -10,6 +11,10 @@ Notebook-based data science can make it difficult to track and manage the data t
 People on the data team who are not data scientists have close to a zero chance of accomplishing anything with the ML tools at their disposal.
 
 Online and offline requirements for data lack a unifying data layer.
+
+Architecture:
+
+![1679419018014](image/README/1679419018014.png)
 
 Is a feature store just a database?
 
